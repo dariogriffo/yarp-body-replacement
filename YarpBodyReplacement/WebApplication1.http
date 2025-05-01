@@ -1,0 +1,6 @@
+@WebApplication1_HostAddress = http://localhost:5075
+
+GET {{WebApplication1_HostAddress}}/api/validate/
+Accept: application/json
+
+###
